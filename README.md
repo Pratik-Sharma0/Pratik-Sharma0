@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pratik Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Eat Sleep Code Repeat</h3>
 <img align='right' alt='Coding' width='400' src='https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e476j03o3dwm1mugp9sojktjpkatq7xcvb2euzugpru&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
 
 
